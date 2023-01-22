@@ -12,13 +12,13 @@ int main()
 	for (int i = 1; i <= w; i++) {
 		total = total + i * k;
 	}
-		if (total > n) {
-			cout << total - n;
-		}
-		else
-		{
-			cout << 0;
-		}
+	if (total > n) {
+		cout << total - n;
+	}
+	else
+	{
+		cout << 0;
+	}
 	
 }
  
