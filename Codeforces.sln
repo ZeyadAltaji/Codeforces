@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Petya and Strings", "Petya 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Helpful Maths", "Helpful Maths\Helpful Maths.vcxproj", "{B3FF40D0-5F96-4219-8B8C-EA22470CE453}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Word Capitalization", "Word Capitalization\Word Capitalization.vcxproj", "{8071111C-AD7D-453D-B362-A277E4BCA476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{B3FF40D0-5F96-4219-8B8C-EA22470CE453}.Release|x64.Build.0 = Release|x64
 		{B3FF40D0-5F96-4219-8B8C-EA22470CE453}.Release|x86.ActiveCfg = Release|Win32
 		{B3FF40D0-5F96-4219-8B8C-EA22470CE453}.Release|x86.Build.0 = Release|Win32
+		{8071111C-AD7D-453D-B362-A277E4BCA476}.Debug|x64.ActiveCfg = Debug|x64
+		{8071111C-AD7D-453D-B362-A277E4BCA476}.Debug|x64.Build.0 = Debug|x64
+		{8071111C-AD7D-453D-B362-A277E4BCA476}.Debug|x86.ActiveCfg = Debug|Win32
+		{8071111C-AD7D-453D-B362-A277E4BCA476}.Debug|x86.Build.0 = Debug|Win32
+		{8071111C-AD7D-453D-B362-A277E4BCA476}.Release|x64.ActiveCfg = Release|x64
+		{8071111C-AD7D-453D-B362-A277E4BCA476}.Release|x64.Build.0 = Release|x64
+		{8071111C-AD7D-453D-B362-A277E4BCA476}.Release|x86.ActiveCfg = Release|Win32
+		{8071111C-AD7D-453D-B362-A277E4BCA476}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
