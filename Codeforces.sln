@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bear and Big Brother", "Bea
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "I_love_username", "I_love_username\I_love_username.vcxproj", "{BDE26AE2-FB64-4E3A-830A-2323461395CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Soldier and Bananas", "Soldier and Bananas\Soldier and Bananas.vcxproj", "{A6D698C7-3803-4A58-9404-48160B1B5BD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{BDE26AE2-FB64-4E3A-830A-2323461395CC}.Release|x64.Build.0 = Release|x64
 		{BDE26AE2-FB64-4E3A-830A-2323461395CC}.Release|x86.ActiveCfg = Release|Win32
 		{BDE26AE2-FB64-4E3A-830A-2323461395CC}.Release|x86.Build.0 = Release|Win32
+		{A6D698C7-3803-4A58-9404-48160B1B5BD2}.Debug|x64.ActiveCfg = Debug|x64
+		{A6D698C7-3803-4A58-9404-48160B1B5BD2}.Debug|x64.Build.0 = Debug|x64
+		{A6D698C7-3803-4A58-9404-48160B1B5BD2}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6D698C7-3803-4A58-9404-48160B1B5BD2}.Debug|x86.Build.0 = Debug|Win32
+		{A6D698C7-3803-4A58-9404-48160B1B5BD2}.Release|x64.ActiveCfg = Release|x64
+		{A6D698C7-3803-4A58-9404-48160B1B5BD2}.Release|x64.Build.0 = Release|x64
+		{A6D698C7-3803-4A58-9404-48160B1B5BD2}.Release|x86.ActiveCfg = Release|Win32
+		{A6D698C7-3803-4A58-9404-48160B1B5BD2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
