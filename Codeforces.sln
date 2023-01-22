@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stones on the Table problem
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bear and Big Brother", "Bear and Big Brother\Bear and Big Brother.vcxproj", "{CEE549FF-69B6-4344-B445-501A6D4D0998}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "I_love_username", "I_love_username\I_love_username.vcxproj", "{BDE26AE2-FB64-4E3A-830A-2323461395CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{CEE549FF-69B6-4344-B445-501A6D4D0998}.Release|x64.Build.0 = Release|x64
 		{CEE549FF-69B6-4344-B445-501A6D4D0998}.Release|x86.ActiveCfg = Release|Win32
 		{CEE549FF-69B6-4344-B445-501A6D4D0998}.Release|x86.Build.0 = Release|Win32
+		{BDE26AE2-FB64-4E3A-830A-2323461395CC}.Debug|x64.ActiveCfg = Debug|x64
+		{BDE26AE2-FB64-4E3A-830A-2323461395CC}.Debug|x64.Build.0 = Debug|x64
+		{BDE26AE2-FB64-4E3A-830A-2323461395CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDE26AE2-FB64-4E3A-830A-2323461395CC}.Debug|x86.Build.0 = Debug|Win32
+		{BDE26AE2-FB64-4E3A-830A-2323461395CC}.Release|x64.ActiveCfg = Release|x64
+		{BDE26AE2-FB64-4E3A-830A-2323461395CC}.Release|x64.Build.0 = Release|x64
+		{BDE26AE2-FB64-4E3A-830A-2323461395CC}.Release|x86.ActiveCfg = Release|Win32
+		{BDE26AE2-FB64-4E3A-830A-2323461395CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
