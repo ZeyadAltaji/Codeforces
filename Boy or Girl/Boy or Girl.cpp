@@ -1,6 +1,8 @@
 // Boy or Girl.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 #include<bits/stdc++.h>
+#include <string>
+#include <iostream>
 using namespace std;
 int main()
 {
