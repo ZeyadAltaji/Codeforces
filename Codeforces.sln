@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boy or Girl", "Boy or Girl\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stones on the Table problem", "Stones on the Table problem\Stones on the Table problem.vcxproj", "{37FE105C-37F3-4D22-B116-6972109839FA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bear and Big Brother", "Bear and Big Brother\Bear and Big Brother.vcxproj", "{CEE549FF-69B6-4344-B445-501A6D4D0998}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{37FE105C-37F3-4D22-B116-6972109839FA}.Release|x64.Build.0 = Release|x64
 		{37FE105C-37F3-4D22-B116-6972109839FA}.Release|x86.ActiveCfg = Release|Win32
 		{37FE105C-37F3-4D22-B116-6972109839FA}.Release|x86.Build.0 = Release|Win32
+		{CEE549FF-69B6-4344-B445-501A6D4D0998}.Debug|x64.ActiveCfg = Debug|x64
+		{CEE549FF-69B6-4344-B445-501A6D4D0998}.Debug|x64.Build.0 = Debug|x64
+		{CEE549FF-69B6-4344-B445-501A6D4D0998}.Debug|x86.ActiveCfg = Debug|Win32
+		{CEE549FF-69B6-4344-B445-501A6D4D0998}.Debug|x86.Build.0 = Debug|Win32
+		{CEE549FF-69B6-4344-B445-501A6D4D0998}.Release|x64.ActiveCfg = Release|x64
+		{CEE549FF-69B6-4344-B445-501A6D4D0998}.Release|x64.Build.0 = Release|x64
+		{CEE549FF-69B6-4344-B445-501A6D4D0998}.Release|x86.ActiveCfg = Release|Win32
+		{CEE549FF-69B6-4344-B445-501A6D4D0998}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
