@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "String Task", "String Task\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boy or Girl", "Boy or Girl\Boy or Girl.vcxproj", "{94506B12-5714-4D7A-91B5-7011444E0C26}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stones on the Table problem", "Stones on the Table problem\Stones on the Table problem.vcxproj", "{37FE105C-37F3-4D22-B116-6972109839FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{94506B12-5714-4D7A-91B5-7011444E0C26}.Release|x64.Build.0 = Release|x64
 		{94506B12-5714-4D7A-91B5-7011444E0C26}.Release|x86.ActiveCfg = Release|Win32
 		{94506B12-5714-4D7A-91B5-7011444E0C26}.Release|x86.Build.0 = Release|Win32
+		{37FE105C-37F3-4D22-B116-6972109839FA}.Debug|x64.ActiveCfg = Debug|x64
+		{37FE105C-37F3-4D22-B116-6972109839FA}.Debug|x64.Build.0 = Debug|x64
+		{37FE105C-37F3-4D22-B116-6972109839FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{37FE105C-37F3-4D22-B116-6972109839FA}.Debug|x86.Build.0 = Debug|Win32
+		{37FE105C-37F3-4D22-B116-6972109839FA}.Release|x64.ActiveCfg = Release|x64
+		{37FE105C-37F3-4D22-B116-6972109839FA}.Release|x64.Build.0 = Release|x64
+		{37FE105C-37F3-4D22-B116-6972109839FA}.Release|x86.ActiveCfg = Release|Win32
+		{37FE105C-37F3-4D22-B116-6972109839FA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
