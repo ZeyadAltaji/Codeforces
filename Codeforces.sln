@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "I_love_username", "I_love_u
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Soldier and Bananas", "Soldier and Bananas\Soldier and Bananas.vcxproj", "{A6D698C7-3803-4A58-9404-48160B1B5BD2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Elephant", "Elephant\Elephant.vcxproj", "{25371368-D3E6-4F56-9611-21F5C8251970}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{A6D698C7-3803-4A58-9404-48160B1B5BD2}.Release|x64.Build.0 = Release|x64
 		{A6D698C7-3803-4A58-9404-48160B1B5BD2}.Release|x86.ActiveCfg = Release|Win32
 		{A6D698C7-3803-4A58-9404-48160B1B5BD2}.Release|x86.Build.0 = Release|Win32
+		{25371368-D3E6-4F56-9611-21F5C8251970}.Debug|x64.ActiveCfg = Debug|x64
+		{25371368-D3E6-4F56-9611-21F5C8251970}.Debug|x64.Build.0 = Debug|x64
+		{25371368-D3E6-4F56-9611-21F5C8251970}.Debug|x86.ActiveCfg = Debug|Win32
+		{25371368-D3E6-4F56-9611-21F5C8251970}.Debug|x86.Build.0 = Debug|Win32
+		{25371368-D3E6-4F56-9611-21F5C8251970}.Release|x64.ActiveCfg = Release|x64
+		{25371368-D3E6-4F56-9611-21F5C8251970}.Release|x64.Build.0 = Release|x64
+		{25371368-D3E6-4F56-9611-21F5C8251970}.Release|x86.ActiveCfg = Release|Win32
+		{25371368-D3E6-4F56-9611-21F5C8251970}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
